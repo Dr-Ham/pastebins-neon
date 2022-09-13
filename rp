@@ -1,1 +1,98 @@
+<align=center><size=30><b><color=#0f8>Comunidad Neón \ Neon Community</color></b></size>
+<size=20>Responsables del servidor (Discord):
+<b>Antonio_Doctor#8420</b> & <b>Raul125 | ESP#7032</b></size>
+<size=20>Contacta con nosotros si crees que alguien ha hecho admin abuse o si consideras que tu ban es injusto.</size>
+ 
+<align=left><color=#7288db><b><link=https://discord.gg/pqBRVUm>Link clickable directo al Discord: https://discord.gg/pqBRVUm. Aquí podrás hablar con la comunidad, pedir ayuda, consultar las normas y reportar los que se las salten.</link></b></color>
+ 
+<align=left><color=#7288db><b>¿Problemas para entrar al servidor? ¡Entra a nuestro Discord y te ayudaremos!</b></color>
 
+Recomendamos enlazar los comandos ".usarhabilidad" y ".cambiarhabilidad" a alguna tecla. 
+Enlazar comando a tecla: darle a la ñ -> escribir: cmdbind <tecla> <comando>
+ 
+<size=20><color=red>Normas Generales</color></size>
+ Queda prohibido:
+1. Aprovecharse de vacíos legales de esta normativa.
+2. Tener conversaciones y/o hacer comentarios racistas, insultos que vayan relacionados a la vida personal de alguna persona y temas ofensivos por el chat off-rol.
+3. Hacer spam de cualquier tipo, salvo que algún responsable del servidor te autorice expresamente (NO HAY PROBLEMA CON LOS QUE TIENEN "Twitch/Facebook/Youtube/HellCase" EN EL NOMBRE)
+4.  Aprovecharse de bugs.
+5.  Utilizar software de terceros que te permita tener una ventaja sobre los demás jugadores (aimhacks, wallhacks...).
+6.  Suplantar la identidad de cualquier persona.
+7.  Hacer reportes con pruebas falsificadas
+8.  Desconectarse de la partida porque te haya tocado un rol que no te gusta.
+9.  Eludir un BAN/KICK con multicuentas o VPN.
+10. Realizar roles de violaciones.
+11. Pedir a los administradores que baneen a tal persona.
+12. Hacer spawnkill.
+ 
+[[REGLAS PARA ESPECTADOR Y VOZ]]
+<size=20><color=red>Normas Generales</color></size>
+1. Usar moduladores de voz está permitido para los SCPs siempre y cuando sea acorde a su rol y permitan entender con claridad lo que se está diciendo. En espectador y como humanos está totalmente prohibido.
+2. Prohibida la música y los audios en espectador y dentro del rol.
+3. Prohibido hacer earrape o saturar el micrófono, siempre.
+4. La Intercom se debe usar para dar mensajes importantes y/o relevantes dentro del rol.
+ 
+<size=20><color=red>[[REGLAS DENTRO ROL]]</color></size>
+1. Usar el sentido común.
+2. Prohibido hacer TeamKill, MetaKill y/o Deathmatch/FreeKill
+3. Respetar la New Life Rule (al aparecer, se te olvida lo ocurrido antes) y el FearRP (tienes que tener miedo).
+4. No hacer PowerGaming (acciones imposibles en la realidad). Esto incluye: bunnyjump, parkour, zig-zag, etc.
+ 
+
+
+<size=20><color=red>[[SCPs]]</color></size>
+ 
+<size=20><color=red>[SCPs AUTOCONSCIENTES]</color></size>
+Los SCPs autoconscientes son aquellos que pueden pensar por sí mismos y, por tanto, pueden hacer estrategias y tomar decisiones. Los SCPs autoconscientes son:
+- SCP-049: Puede pactar con la MTF (y guardias) a cambio de su recontención. En caso de pactar, tiene 10 minutos recontenerse. Pasados esos 10 minutos, se volverá hostil si no ha sido recontenida. Puede hacer una tregua con los Caos.
+·SCP-049-2: Deben seguir las órdenes de 049 e ir siempre con él, salvo que 049 les ordene lo contrario. Si se recontiene a 049, los zombies se volverán agresivos. 
+· SCP-079: Su objetivo es sembrar el caos. Puede pactar con todo el mundo salvo con guardias y MTF.
+· SCP-035: Conoce las instalaciones y sabe todo lo relacionado con la fundación SCP. Tiene la misión de llegar a superficie. Una vez llegue, puede volver a las instalaciones a sembrar el caos.
+· SCP-343: Ayuda a los humanos.
+· SCP-999: No podrá hablar, tan solo puede hacer su increible sonido "prrrrrr". Puede ayudar a los SCPs y/o a los humanos,
+ 
+
+<size=20><color=red>[SCPs NO AUTOCONSCIENTES]</color></size>
+Los SCPs no autoconscientes son aquellos que no pueden pensar por sí mismos. No pueden huir de ningún objeto que les haga, o pueda hacer, daño, ni de la gente y tampoco pueden ir juntos y no pueden plantear estrategias.
+· SCP-173: No puede plantear estrategias (por ejemplo campear o cerrar puertas). 173 y 173-J pueden ir juntos.
+· SCP-106: No puede huir de objetos que le hagan, o puedan hacer, daño. Puede plantear estrategias limitadas, como subir y/o bajar ascensores para atrapar a alguien. Puede ir y volver de su dimensión de bolsillo con los comandos ".usarhabilidad" y ".cambiarhabilidad"
+· SCP-939: No puede buscar a gente en las esquinas, salvo que sepa que hay gente en ese lugar. Puede ir con otros SCP.939 (incluyendo SCP-367). Solo puede decir lo último que ha escuchado de sus víctimas.
+· SCP-096: Debe evitar los humanos. Sin embargo, una vez lo mire, deberá acabar con los que lo hayan mirado.
+· SCP-3199: Puede hacer sonidos de pollo. No puede ir con otros SCPs, salvo con sus "hijos" (se pueden crear usando el comando ".usarhabilidad" en la "ñ").
+ 
+
+<size=20><color=red>[[Clases-D]]</color></size>
+No conocen nada sobre las instalaciones, salvo quiénes son los Guardias y Científicos. Alguien con conocimientos podrá ayudarte a conocer más el lugar.
+- Infiltrado de los Caos: Es un miembro de la Insurgencia del Caos infiltrado. Tiene apariencia de Clase-D, pero sabe todo acerca de la Fundación y los SCPs
+ 
+
+<size=20><color=red>[[Científico]]</color></size>
+El Científico tiene todo tipo de conocimientos sobre los SCPs y las instalaciones. El uso de los SCP tipo objeto (panacea, CocaCola, etc) está limitado para el uso más extremo. Tienes a gente superior a ti, como los MTF o Guardias, a quienes deberás obedecer siempre.
+- Infiltrado de la MTF: Su misión es ayudar a escapar a todos los Científicos. Además deberás ayudar a escapar a los Clases-D esposados, priorizando la vida de un Científico antes que la de un Clase-D.
+ 
+
+ <size=20><color=red>[[Guardias/NTF]]</color></size>
+- Conoces a todos los SCPs y las instalaciones. Como guardia, intentarás obtener el máximo número de SCPs “objeto” limitando el uso de estos SCPs al caso más extremo y necesario. Cuando te encuentres a un Caos tienes dos posibilidades: luchar o rendirte. 
+- Los NTF tienen una serie de rangos a los cuales también se les aplican a los Guardias. Esos rangos son los siguiente, van del superior al menos “importante” -> Comandante/Miembro O5 > Especialista de la NTF > Sargento > Soldado Raso > Guardia > Científico. 
+- Los únicos que tienen permiso para ordenar la activación de la nuke son los siguientes, priorizando al primero como “más importante”: Comandante>Miembro 05
+- Casualmente, cuando vienen los MTF/NTF, saben que SCPs hay, pero no dónde están.
+- El ser una clase especial no te da mayor rango
+·· EN CUANTO A LA ACTIVACIÓN DE LA NUKE:
+Los únicos que pueden aceptar la activación de la Nuke son Comandante>Miembro de la 05. Para poder llevar a cabo esta activación, se deberán tener en cuenta 2 factores importantes:
+- Deben haber DOS generadores activados
+- Que no queden Clases-D o Científicos dentro de las instalaciones
+- Que los SCPs sean imposibles de recontener.
+ 
+
+<size=20><color=red>[[Insurgencia del Caos]]</color></size>
+Como Caos tienes una serie de objetivos que cumplir:
+- Rescatar a todos los Clases-D vivos, secuestrar Científicos y saquear la Fundación.
+- Obtener el máximo número de SCPs “objeto” (sombrero, CocaCola, etc), limitando el uso de estos SCPs al caso más extremo y necesario.
+- Recuerda que los Clases-D no conocen la existencia de los Caaos, por lo tanto, pueden escapar de ellos. Por esta misma razón, habrá que explicarles que los Chaos son aliados de los Clases-D y que queréis ayudarlos.
+- Tienen el mismo conocimiento acerca de los SCPs y las instalaciones que los MTF/NTF.
+- Casualmente, cuando vienen los Caaos, saben que SCP´S hay.
+·· EN CUANTO A ACTIVACIÓN DE LA NUKE:
+Los Chaos deberán tener en cuenta los siguientes factores a la hora de la activación de la Nuke:
+- Deben haber DOS generadores activados
+- Hay que evitar en lo máximo posible la activación de la Nuke siempre y cuando sigan habiendo Clases-D y/o Científicos dentro de las instalaciones
+- En caso de no haber ni Científicos ni Clases-D, se deberá rolear una extracción de información del sistema durante 1 minuto en Intercom y dar el aviso de la activación por Intercom.
